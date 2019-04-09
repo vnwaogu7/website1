@@ -1,23 +1,25 @@
-
-
 body{
-  background-color:lightblue;
-  text-align:center;
+  background-color:lightblue
 }
 h1{
   color:#800080;
 }
 thinking meme{
-  width: 20px
-  height: 20px
+  width: 20px;
+  height: 20px;
 }
 p{
-  font-family:
+  font-family:heveltica;
 }
 
 ol{
   color:#00008b;
+  text-align:center;
 }
+
 ol li{
   color:#6495ed;
 }
+
+
+
